@@ -94,7 +94,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
 				<br>
 				<div class="row">
 					<div class="col-xs-9 col-sm-9 col-md-9">
-						 <a href='reset.php'>Forgot your Password?</a>
+						 <a href='reset.php'>Forgot Password?</a>
 					</div>
 				</div>
 				
